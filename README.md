@@ -12,5 +12,6 @@ This project uses Long Short-Term Memory (LSTM) neural networks to predict stock
 - Visualization: Plot actual and predicted stock prices to visually compare the model's performance.
 
 ## Example Results
-![Screenshot 2024-07-12 at 12 06 54 AM](https://github.com/user-attachments/assets/a6b2729f-ef5f-41ca-b20e-ca2cc93c6186) ![Screenshot 2024-07-12 at 12 09 27 AM](https://github.com/user-attachments/assets/f2ebb451-7dd4-4f31-ab84-47c1257fb671)
+![Screenshot 2024-07-12 at 12 06 54 AM](https://github.com/user-attachments/assets/a6b2729f-ef5f-41ca-b20e-ca2cc93c6186) 
+![Screenshot 2024-07-12 at 12 09 27 AM](https://github.com/user-attachments/assets/f2ebb451-7dd4-4f31-ab84-47c1257fb671)
 
